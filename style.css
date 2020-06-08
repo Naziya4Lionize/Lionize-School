@@ -2471,7 +2471,7 @@ Reset Styles
     line-height: 48px;
     text-transform: uppercase; }
   .slider--two .slide .slide__inner p {
-    color: #777777;
+    color: black;
     line-height: 23px; }
   .slider--two .slide .slide__inner .slider__btn {
     margin-top: 47px; }
@@ -2507,7 +2507,7 @@ Reset Styles
       margin-top: 12px;
       text-transform: capitalize; }
     .slider--three .slide .slide__inner p {
-      color: #777777;
+      color: black;
       line-height: 23px; }
     .slider--three .slide .slide__inner .slider__btn {
       margin-top: 47px; }
@@ -2548,7 +2548,7 @@ Reset Styles
       margin-top: 12px;
       text-transform: capitalize; }
     .slider--four .slide .slide__inner p {
-      color: #777777;
+      color: black;
       font-size: 16px;
       line-height: 25px;
       width: 60%;
@@ -2587,7 +2587,7 @@ Reset Styles
       margin-top: 12px;
       text-transform: capitalize; }
     .slider--five .slide .slide__inner p {
-      color: #777777;
+      color: black;
       font-size: 16px;
       line-height: 25px;
       width: 60%;
@@ -9591,6 +9591,7 @@ Reset Styles
   color: white;
   font-size: 24px;
 }
+
 @media only screen and (min-width: 100px) and (max-width: 600px) {
   .dropdown-submenu>.dropdown-menu {
     top: 3rem;
@@ -9598,4 +9599,3 @@ Reset Styles
     
 }
 }
-
