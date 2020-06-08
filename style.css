@@ -9591,5 +9591,11 @@ Reset Styles
   color: white;
   font-size: 24px;
 }
-
+@media only screen and (min-width: 100px) and (max-width: 600px) {
+  .dropdown-submenu>.dropdown-menu {
+    top: 3rem;
+    left: 0%;
+    
+}
+}
 
