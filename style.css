@@ -648,16 +648,16 @@ Reset Styles
     background: #2f85d8; }
   
   .bg__cat--4 {
-    background: #b1c642; }
+    background: #2c5276; }
   
   .bg__cat--5 {
-    background: #ffc10d; }
+    background: #2c5276; }
   
   .bg__cat--6 {
-    background: #ff5d52; }
+    background: #2c5276; }
   
   .bg__cat--7 {
-    background: #68b9d8; }
+    background: #2c5276; }
   
   .bg__cat--8 {
     background: #292929; }
@@ -9339,10 +9339,10 @@ Reset Styles
     background-size: cover;
     bottom: 0;
     content: "";
-    height: 133px;
-    left: -123px;
+    height: 150px;
     position: absolute;
-    width: 112%; }
+    width: 100%;
+ }
   
   .footer__social__icon {
     margin-bottom: 42px;
@@ -9599,3 +9599,28 @@ Reset Styles
     
 }
 }
+
+input[type=text], select, textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+
+input[type=submit] {
+  background-color: #4CAF50;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: #45a049;
+}
+
